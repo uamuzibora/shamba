@@ -1,4 +1,3 @@
-shamba
-======
+## shamba
 
-Uamuzi Bora on OpenMRS
+Uamuzi Bora on OpenMRS.

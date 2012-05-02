@@ -1,5 +1,4 @@
 .DS_Store
 
-openmrs/database/*
 openmrs/tomcat/logs/*
 openmrs/tomcat/work/*
